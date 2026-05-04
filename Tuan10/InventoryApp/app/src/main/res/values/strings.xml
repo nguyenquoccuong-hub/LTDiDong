@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kiểm kho</string>
+    <string name="add_item_title">Thêm mặt hàng</string>
+    <string name="edit_item_title">Chỉnh sửa mặt hàng</string>
+    <string name="item_details_title">Chi tiết mặt hàng</string>
+    <string name="item_name_req">Tên mặt hàng*</string>
+    <string name="item_price_req">Giá mặt hàng*</string>
+    <string name="quantity_req">Số lượng tồn kho*</string>
+    <string name="save_action">Lưu</string>
+    <string name="no_inventory_description">Chưa có mặt hàng nào. Hãy thêm một mặt hàng mới.</string>
+    <string name="inventory_status">%1$d trong kho</string>
+    <string name="required_fields">*trường bắt buộc</string>
+    <string name="delete">Xoá</string>
+    <string name="sell">Bán</string>
+    <string name="out_of_stock">Hết hàng</string>
+    <string name="delete_title">Xác nhận xoá</string>
+    <string name="delete_question">Bạn có chắc chắn muốn xoá mặt hàng này không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+</resources>
