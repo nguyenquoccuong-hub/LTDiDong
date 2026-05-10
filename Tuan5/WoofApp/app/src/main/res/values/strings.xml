@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_description_1">Ăn bánh quy trên ghế sofa.</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_description_2">Sủa người đi xe đạp.</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_description_3">Chợp mắt dưới ánh nắng mặt trời.</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_description_4">Đuổi theo những con sóc.</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_description_5">Đào hố trong sân.</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_description_6">Bắt đĩa bay.</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_description_7">Chơi trong bùn.</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_description_8">Ngủ dưới gầm bàn.</string>
+    <string name="dog_name_9">Leroy</string>
+    <string name="dog_description_9">Nhặt bóng tennis.</string>
+    <string name="years_old">%1$d tuổi</string>
+    <string name="about">Giới thiệu</string>
+    <string name="expand_button_content_description">Nút mở rộng</string>
+    <string name="theme_toggle_content_description">Chuyển đổi giao diện</string>
+</resources>
