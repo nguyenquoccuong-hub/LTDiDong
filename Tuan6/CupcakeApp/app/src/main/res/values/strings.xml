@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bánh Cupcake</string>
+    <string name="order_cupcakes">Đặt bánh Cupcake</string>
+    <string name="one_cupcake">Một chiếc bánh</string>
+    <string name="six_cupcakes">Sáu chiếc bánh</string>
+    <string name="twelve_cupcakes">Mười hai chiếc bánh</string>
+    <string name="choose_flavor">Chọn hương vị</string>
+    <string name="choose_pickup_date">Chọn ngày nhận hàng</string>
+    <string name="order_summary">Tóm tắt đơn hàng</string>
+    <string name="subtotal_price">Tạm tính %s</string>
+    <string name="total_price">Tổng cộng %s</string>
+    <string name="quantity">Số lượng</string>
+    <string name="flavor">Hương vị</string>
+    <string name="pickup_date">Ngày nhận hàng</string>
+    <string name="cancel">Hủy</string>
+    <string name="next">Tiếp theo</string>
+    <string name="send_order">Gửi đơn hàng đến ứng dụng khác</string>
+
+    <string name="vanilla">Vani</string>
+    <string name="chocolate">Sô-cô-la</string>
+    <string name="red_velvet">Nhung đỏ</string>
+    <string name="salted_caramel">Caramen muối</string>
+    <string name="coffee">Cà phê</string>
+
+    <string name="new_cupcake_order">Đơn hàng Cupcake mới</string>
+    <string name="order_details">Số lượng: %1$s \nHương vị: %2$s \nNgày nhận: %3$s \nTổng cộng: %4$s \n\nCảm ơn bạn!</string>
+    <string name="back_button">Quay lại</string>
+
+    <plurals name="cupcakes">
+        <item quantity="one">%d chiếc bánh</item>
+        <item quantity="other">%d chiếc bánh</item>
+    </plurals>
+</resources>
